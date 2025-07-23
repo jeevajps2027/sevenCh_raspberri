@@ -1,0 +1,7 @@
+Package: sevenchannel
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: arm64
+Maintainer: sai <gaugelogic.report@gmail.com>
+Description: Multi-channel system application

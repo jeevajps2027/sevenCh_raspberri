@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Seven_Channel
+Exec=/usr/local/bin/seven_channel-launch
+Icon=/usr/local/bin/four_channel/sai.png
+Type=Application
+Terminal=false
+Categories=Utility;
